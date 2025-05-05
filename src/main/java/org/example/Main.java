@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        
+
         System.out.println("\n--- Köpek Testleri ---");
         System.out.println("shouldWakeUp(false, 2): " + shouldWakeUp(false, 2));
         System.out.println("shouldWakeUp(true, 8): " + shouldWakeUp(true, 8));
