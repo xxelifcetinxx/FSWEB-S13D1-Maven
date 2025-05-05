@@ -7,7 +7,7 @@ public class Main {
         System.out.println("shouldWakeUp(false, 2): " + shouldWakeUp(false, 2));
         System.out.println("shouldWakeUp(true, 8): " + shouldWakeUp(true, 8));
         System.out.println("shouldWakeUp(true, 20): " + shouldWakeUp(true, 20));
-        System.out.println("shouldWakeUp(true, -1): " + shouldWakeUp(true, -1));
+        System.out.println("shouldWakeUp(true, 1): " + shouldWakeUp(true, 1));
         System.out.println("shouldWakeUp(true, 24): " + shouldWakeUp(true, 24));
         System.out.println("shouldWakeUp(false, 22): " + shouldWakeUp(false, 22));
 
